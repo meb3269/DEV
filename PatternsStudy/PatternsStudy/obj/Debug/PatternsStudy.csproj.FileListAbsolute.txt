@@ -1,0 +1,13 @@
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.exe.config
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.exe
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.pdb
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.csprojResolveAssemblyReference.cache
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.exe
+\\day04\home$\meblack\visual studio 2015\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.pdb
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.exe.config
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.exe
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.pdb
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.exe
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\bin\Debug\PatternsStudy.pdb
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\bin\Debug\Newtonsoft.Json.Net35.dll
+C:\MikeB\Projects\PatternsStudy\PatternsStudy\obj\Debug\PatternsStudy.csprojResolveAssemblyReference.cache
